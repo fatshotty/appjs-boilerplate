@@ -1,0 +1,30 @@
+{
+  "name": "appjs-biolerplate",
+  "description": "AppJS Boilerplate will provide advanced examples for using AppJS in the best way",
+  "version": "0.0.1",
+  "keywords": [ "appjs", "html", "css", "js" ],
+  "homepage": "http://appjs.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fatshotty/appjs-boilerplate"
+  },
+  "author": {
+    "name": "Fabio Tunno",
+    "email": "fat@fatshotty.net"
+  },
+  "contributors": [{
+    "name": "Morteza Milani",
+    "email": "mrtz.milani@gmail.com"
+  }],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "mime": ">=1.2.5",
+    "appjs": "0.1.0"
+  }
+}
